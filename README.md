@@ -5,7 +5,7 @@
 <img src = "https://media3.giphy.com/media/l0He4nkyI5cMhXzvW/200.gif?cid=6c09b952923600568a2e852293d0ac26e953bb0ca4e54d1a&ep=v1_internal_gifs_gifId&rid=200.gif&ct=g" align="right">
 - 🌱 I’m currently learning **python , C++, React**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science and web development**
 
 - 📫 How to reach me **sujalpawar0804@gmail.com**
 
